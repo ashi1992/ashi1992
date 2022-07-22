@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashi1992
-- 👀 I’m interested in learning Python and change career
+- 👀 I’m interested in learning Python and changing career
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ashi_sharma@hotmail.co.uk
 
 <!---
